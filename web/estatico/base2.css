@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	
+	background:#475CA8;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#rodape_layout{
+
+	width: 1000px;
+	height:60px;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    margin-left: -458px;
+    background:#fff;
+    border-radius:10px;
+}
+
+
+
+#box_footer{
+	
+}
+
+#footer_b{
+	position: absolute;
+    top: 0;
+    right: 1%;
+    width: 45%;
+    float: right;
+}
+
+#footer_a{
+	width: 33%;
+	
+	float: left;
+
+}
+
+
+.img_footer{
+	float:right;
+	width: 60px;
+	height: 60px;
+}
+
+.img_footer_grupo {
+    float: left;
+    height: 53px;
+    margin-top: 8px;
+    margin-left: 20px;
+    width: 615px;
+}
+
+.img_footer_certificacao {
+    float: left;
+    height: 42px;
+    margin-left: 110px;
+    margin-top: 14px;
+}
+
+#footer_a p {
+	
+position: absolute;
+top: -9px;
+font-size: 10px;
+color: #475ca8;
+font-weight: bold;
+display: block;
+text-align: center;
+left: 75px;
+}
+
+
+#footer_b p {
+	
+	position: absolute;
+    top: -9px;
+    font-size: 10px;
+    color: #475ca8;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    left: 105px;
+}
+
+
+#end{
+	font-weight: bold;
+	color: #475ca8;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    width: 30%;
+    font-size: 8px;
+    line-height: 80%;
+}
